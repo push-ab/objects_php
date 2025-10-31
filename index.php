@@ -1,5 +1,7 @@
 <?php
-//Примеси, перезагрузка и магия
+
+//Примеси, перезагрузка и магия- решение 2х задач
+
 /*trait AppUserAuthentication
 {
     private string $appLogin = "admin";
